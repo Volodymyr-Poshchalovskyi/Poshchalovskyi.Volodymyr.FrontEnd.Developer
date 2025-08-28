@@ -2,10 +2,7 @@
   "sidebar": {
     "home": "Home",
     "portfolio": "Portfolio",
-    "cv": "CV"
-  },
-  "hero": {
-    "title": "Hi! I'm a Web Developer",
-    "description": "Building modern and responsive web applications."
+    "cv": "CV",
+    "copied": "Copied"
   }
 }
